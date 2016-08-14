@@ -1,10 +1,9 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Oct 22 08:09:25 2015
+Created on Thu Aug 12th
 
-@author: astenta
+@author: acao
 
-sys.arg[0]
 """
 from Uniaxial import GetUniaxialCycles
 import json

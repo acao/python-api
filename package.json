@@ -1,5 +1,5 @@
 {
-  "name": "rainfall-calc-api",
+  "name": "node-python-api",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,16 +10,17 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "koa": "^1.2.1",
+    "koa": "^2.0",
     "koa-better-body": "^2.0.1",
     "koa-convert": "^1.2.0",
     "koa-logger-winston": "0.0.2",
-    "koa-router": "^5.4.0",
+    "koa-router": "^7.0.0",
     "python-shell": "^0.4.0",
+    "toml": "^2.3.0",
     "winston": "^2.2.0"
   },
   "devDependencies": {
     "babel-preset-es2015-node6": "^0.3.0",
-    "babel-watch": "^2.0.2",
+    "babel-watch": "^2.0.2"
   }
 }

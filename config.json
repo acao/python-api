@@ -1,8 +1,0 @@
-{
-  "scripts":  [
-      {
-        "name": "rainfall",
-        "path": "Uniaxial_CycleCount/CalculateUniaxial.py"
-      }
-    ]
-}

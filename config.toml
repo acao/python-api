@@ -1,0 +1,4 @@
+[[scripts]]
+name = "rainfall"
+singleArg = true # default false
+path = "Uniaxial_CycleCount/CalculateUniaxial.py"
